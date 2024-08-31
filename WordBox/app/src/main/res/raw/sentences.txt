@@ -1,0 +1,175 @@
+Allow me:	Bana izin ver
+Be calm!:	Sakin ol!
+Be careful!:	Dikkatli ol!
+Be patient!:	Sabırlı ol!
+Be quiet!:	Sessiz ol
+Believe me:	İnan bana
+Bless you!:	Çok yasa!
+Bottoms up!:	Şerefe!
+Call me back:	Beni geri ara
+Call me later:	Beni daha sonra ara
+Cheer up!	:Neşelen
+Come on	:Hadi ama
+Come with me:	Benimle gel
+Congratulations!:	Tebrikler!
+Count me on:	Ben varım, beni de sayın
+Do me a favor:	Bana bir iyilik yap
+Enjoy yourself:	Eğlenmene bak
+Excuse me Sir	:Affedersiniz efendim
+Follow me	:Beni takip et
+Forget it!:	Unut gitsin
+Forgive me	:Beni affet
+Give me a hand	:Bana el uzat, bana yardımcı ol
+Good afternoon	:İyi günler
+Good job!	:İyi iş
+Good luck!	:İyi şanslar
+Good morning	:Günaydın
+Good night:	İyi geceler
+Goodbye	:Hoşça kal
+Have a good trip:	İyi yolculuklar
+Have a good weekend:	İyi hafta sonları
+Have fun	:İyi eğlenceler
+Help yourself:	Buyurun
+Hurry up	:Acele et
+I admire you	:Sana hayranım
+I agree with you:	Sana katılıyorum
+I am home	:Ben evdeyim
+I am hungry	:Açım
+I am lost	:Ben kayboldum
+I am serious	:Ben ciddiyim
+I am sure	:Eminim
+I apologize	:Özür dilerim
+I got it	:Anladım
+I hate you!	:Senden nefret ediyorum
+I have no idea	:Hiçbir fikrim yok
+I hope so	:Umarım
+I knew it	:Biliyordum
+I know	:Biliyorum
+I love you:	Seni seviyorum
+I promise:	Söz veriyorum
+I think so:	Sanırım
+I will be back	:Geri döneceğim
+I wish you all the best:	Her şeyin gönlünce olması dileğiyle
+I would love to:	Çok isterim
+I’m busy:	Meşgulüm
+I’m good:	İyiyim
+I’m sorry:	Üzgünüm
+I’m tired:	Yorgunum
+I’m sorry:	Üzgünüm, affedersiniz
+It is beyond me:	Bu beni aşar
+It’s okay	:Her şey yolunda
+It’s so good to see you again:	Seni tekrar görmek çok güzel
+Join me	:Katıl bana
+Keep in touch:	İletişimi koparmayalım
+Keep it up:	Aynen devam et
+Let’s catch up!	:Hadi arayı kapatalım
+Let’s do it!	:Hadi yapalım
+Line up	:Sıraya gir
+Long time no talk:	Konuşmayalı uzun zaman oldu
+My battery is low:	Şarjım az kaldı
+Nice to meet you:	Tanıştığıma memnun oldum
+Of course:	Tabii ki, Elbette
+See you	:Görüşürüz
+See you later	:Sonra görüşürüz
+See you next time	:Bir dahaki sefere görüşürüz
+See you tomorrow:	Yarın görüşürüz
+Slow down:	Yavaşla
+Take care:	Kendine iyi bak
+Talk to you tomorrow:	Yarın konuşuruz
+Thank you very much:	Çok teşekkür ederim
+That’s all for now:	Şimdilik bu kadar
+This way	:Buradan
+Try again:	Tekrar dene
+You are going too fast:	Çok hızlı gidiyorsun
+You are welcome:	Rica ederim
+Your turn:	Senin sıran
+Don’t be ridiculous:	Komik olma
+Don’t be so childish:	Çocuk olma
+Don’t be so modest:	Alçak gönüllü olma
+Don’t keep the truth from me:	Benden gerçekleri saklama
+Don’t let me down:	Beni hayal kırıklığına uğratma
+Don’t move:	Kıpırdama
+Don’t touch me:	Dokunma bana
+Don’t worry:	Endişelenme
+I am not hungry	:Aç değilim
+I can’t wait:	Bekleyemem
+I don’t agree:	Katılmıyorum
+I don’t believe you:	Sana inanmıyorum
+I don’t care:	Umrumda değil
+I don’t know:	Bilmiyorum
+I don’t mean it:	Onu demek istemedim
+I don’t understand	:Anlamadım
+I don’t want to	:İstemiyorum
+I don’t have time:	Zamanım yok
+I have no idea	:Hiçbir fikrim yok
+It doesn’t matter:	Fark etmez
+Not at all	:Önemli değil
+Not bad	:Kötü değil
+Not yet	:Daha değil
+Anything else?	:Başka bir şey var mı?
+Are you coming with me?	:Benimle geliyor musun?
+Are you coming?:	Geliyor musun?
+Are you done?	:Bitirdin mi?
+Are you hungry?:	Aç mısın?
+Are you kidding me?	:Benimle dalga mı geçiyorsun?
+Are you lost?:	Kayıp mı oldun?
+Are you not feeling well?	:Kendini iyi hissetmiyor musun?
+Are you okay?	:İyi misin?
+Are you sure?	:Emin misin?
+Can I ask you something?	:Sana bir şey sorabilir miyim?
+Can I help you?	:Yardım edebilir miyim?
+Can you help me please?:	Lütfen bana yardım eder misin?
+Can you please repeat that?:	Lütfen tekrar eder misin?
+Can you repeat it?:	Tekrar edebilir misin?
+Did you get it?	:Aldın mı? / Anladın mı?
+Did you lose your bag?:	Çantanızı mı kaybettiniz?
+Do l have to?	:Yapmak zorunda mıyım?
+Do you need anything?:	Bir şeye ihtiyacın var mı?
+Do you speak our language?	:Dilimizi konuşabiliyor musunuz?
+Do you understand?:	Anlıyor musun?
+Do you want it?	:Bunu istiyor musun?
+Do you want something?:	Bir şey ister misin?
+Excuse me?	:Bakar mısınız?
+For what?:	Ne için?
+Guess what?:	Tahmin et, ne oldu?
+How are things doing?:	İşler nasıl gidiyor?
+How are you?:	Nasılsın?
+How do you feel?:	Ne hissediyorsun?
+How much is it?:	Fiyatı ne kadar?
+How much?:	Ne kadar?
+How old are you?:	Kaç yaşındasın?
+How was your weekend?:	Hafta sonun nasıldı?
+Is all good?:	Her şey iyi mi?
+Is everything OK?:	Her şey yolunda mı?
+Is it true or false?:	Doğru mu yanlış mı?
+What are you doing?:	Ne yapıyorsun?
+What are you talking about?:	Neyden bahsediyorsun?
+What are you up to?:	Neler yapıyorsun?
+What are your hobbies?:	Hobilerin neler?
+What did you say?:	Ne dedin?
+What do you need?:	Neye ihtiyacın var?
+What do you think?:	Ne düşünüyorsun?
+What do you want to do?:	Ne yapmak istersin?
+What else?	:Başka
+What happened?:	Ne oldu?
+What is the matter?:	Sorun nedir?
+What time is it?:	Saat kaç?
+What’s going on?:	Neler oluyor?
+What’s the weather like?:	Hava nasıl?
+What’s up?	:Ne haber?
+What’s wrong with you?:	Neyin var?
+What’s your email address?	:E-posta adresin ne?
+What’s your job?	:Ne iş yapıyorsun?
+What’s your name?:	Adın ne?
+What’s your phone number?	:Telefon numaran ne?
+When did you come here?:	Ne zaman buraya geldin?
+Where are you from?	:Nerelisin?
+Where are you going?	:Nereye gidiyorsun?
+Where are you?:	Neredesin?
+Where did you get it?:	Bunu nereden aldın?
+Where do you live?	:Nerede yaşıyorsun?
+Where have you been all this while:	Bunca zamandır neredeydin?
+Which bus do you want?:	Hangi otobüsü istiyorsun?
+Who are you?:	Kimsin sen?
+Why not?:	Neden olmasın?
+Why are you here?:	Neden buradasın?
