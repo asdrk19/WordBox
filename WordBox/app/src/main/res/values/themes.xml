@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WordBox" parent="Theme.Material3.Light.NoActionBar">
+        <!-- ActionBar rengi -->
+        <item name="colorPrimary">@color/my_desired_primary_color</item>
+        <!-- Şarj yeri göstergesinin rengini siyah yaptık. -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+
+
+    </style>
+
+    <style name="Theme.WordBox" parent="Base.Theme.WordBox" />
+
+    <color name="my_desired_primary_color">#000000</color>
+
+    <style name="Theme.WordBox.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WordBox.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.WordBox.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
