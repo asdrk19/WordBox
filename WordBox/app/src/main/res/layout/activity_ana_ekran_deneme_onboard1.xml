@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/anasayfasonislem"
+    tools:context=".ana_ekran_deneme">
+
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="173dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="-33dp"
+        android:layout_marginEnd="19dp"
+        android:text="Ayarlar ve uygulama bilgilerinin olduğu sayfayı açar"
+        android:textAlignment="center"
+        android:textColor="#FAFAFA"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="173dp"
+        android:layout_height="59dp"
+        android:text="Kelime ve cümlelerin olduğu sayfayı açar"
+        android:textAlignment="center"
+        android:textColor="#FAFAFA"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="7dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/cardview_selector"
+            android:foreground="?attr/selectableItemBackground"
+            app:cardBackgroundColor="@color/design_default_color_surface"
+            app:cardCornerRadius="15dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="64px"
+                    android:layout_height="64px"
+                    android:src="@drawable/settings1" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="@dimen/_5dp"
+                android:background="@drawable/cardview_selector"
+                android:foreground="?attr/selectableItemBackground"
+                app:cardBackgroundColor="@color/design_default_color_surface"
+                app:cardCornerRadius="15dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="191px"
+                        android:layout_height="191px"
+                        android:background="@drawable/arkaplan_son"
+                        android:src="@drawable/iconson2" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="@dimen/_5dp"
+                        android:text="WORD"
+                        android:textColor="#000000"
+                        android:textSize="22dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_margin="@dimen/_5dp"
+                android:background="@drawable/cardview_selector"
+                android:foreground="?attr/selectableItemBackground"
+                app:cardBackgroundColor="@color/design_default_color_surface"
+                app:cardCornerRadius="15dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="191px"
+                        android:layout_height="191px"
+                        android:background="@drawable/arkaplan_son"
+                        android:src="@drawable/dictionary" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="DICTIONARY"
+                        android:textColor="#000000"
+                        android:textSize="22dp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="128dp"
+        android:layout_height="146dp"
+        android:layout_marginStart="-30dp"
+        android:layout_marginTop="123dp"
+        android:rotation="-19"
+        android:rotationY="1"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout"
+        app:srcCompat="@drawable/ok" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="173dp"
+        android:layout_height="59dp"
+        android:layout_marginEnd="-11dp"
+        android:layout_marginBottom="-3dp"
+        android:text="Kaydettiğiniz kelime ve cümlelerin olduğu sayfayı açar"
+        android:textAlignment="center"
+        android:textColor="#FAFAFA"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="145dp"
+        android:layout_height="148dp"
+        android:layout_marginEnd="-30dp"
+        android:rotation="155"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:srcCompat="@drawable/ok" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="134dp"
+        android:layout_height="111dp"
+        android:layout_marginTop="-35dp"
+        android:rotation="33"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout2"
+        app:srcCompat="@drawable/ok" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="19dp"
+        android:layout_marginBottom="35dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.0551"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintWidth_percent="0.2991">
+        >
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/kart_kay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/cardview_selector"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            android:onClick="next_page"
+            app:cardCornerRadius="15dp"
+            app:layout_constraintBottom_toTopOf="@+id/imageButton14"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.421"
+            app:layout_constraintHorizontal_bias="0.489"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintWidth_percent="0.201">
+
+            <TextView
+                android:id="@+id/kay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Sonraki Sayfa>"
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
