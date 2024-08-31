@@ -1,0 +1,498 @@
+accountant :	muhasebeci
+afraid :	korkmuş
+age :	yaş, çağ
+alone:	yalnız
+airplane:	uçak
+angry:	kızgın
+animal:	hayvan
+answer:	cevap
+architect:	mimar
+arrive:	varmak
+aunt:	teyze, hala
+bag:	çanta
+ball:	top
+bath:	banyo
+beautiful:	güzel
+bill:	fatura
+body:	vücut
+boil:	kaynatmak, haşlamak
+bookstore:	kitapçı
+boring:	sıkıcı
+borrow:	ödünç almak
+boss:	patron
+bottle:	şişe
+box:	kutu
+brave:	cesur
+bread:	ekmek, pane etmek
+break:	kırmak
+bridge	:köprü
+brush:	fırça, fırçalamak
+build:	inşa etmek
+butter:	tereyağı
+calculator:	hesap makinesi
+calendar:	takvim
+call:	arama
+capital:	sermaye, başkent
+carpenter:	marangoz
+carpet:	halı
+carry	:taşımak
+cheap:	ucuz
+cheese:	peynir
+cherry	:kiraz
+chicken:	tavuk
+church:	kilise
+clean	:temizlemek, temiz
+clear	:açık, net
+clever:	zeki
+clock	:saat
+cloud	:bulut
+coat	:ceket
+cold	:soğuk
+company:	şirket
+continue:	devam etmek
+correct:	doğru, düzeltmek
+country	:ülke
+cow:	inek
+cry:	ağlamak
+daily:	günlük
+dark:	karanlık
+dentist	:dişçi
+difficult:	zor
+dirty:	kirli
+divorced:	boşanmış
+draw	:çizmek
+early	:erken
+earn	:kazanmak
+elephant:	fil
+emergency	:acil durum
+empty	:boş
+engaged:	nişanlı
+engineer:	mühendis
+enough	:yeterli
+eraser:	silgi
+error:	hata
+fall:	düşmek
+far:	uzak
+farm:	çiftlik
+fat:	şişman
+finger:	parmak
+fire:	ateş
+flight:	uçuş
+floor:	zemin
+fork:	çatal
+friendly:	samimi
+fruit	:meyve
+funny:	komik
+garden:	bahçe
+glass	:bardak
+grape:	üzüm
+gun:	tabanca
+habit:	alışkanlık
+half:	yarım
+hand:	el
+handsome:	yakışıklı
+hate:	nefret
+health	:sağlık
+hear	:duymak
+heart:	kalp
+heavy:	ağır
+high	:yüksek
+history:	tarih
+horror:	korku
+hungry	:aç
+ill:	hasta
+interested:	ilgili
+job	:meslek
+journalist	:gazeteci
+kill:	öldürmek
+large	:büyük
+laugh	:gülmek
+lawyer:	avukat
+leave	:ayrılmak
+left	:sol
+lend	:ödünç vermek
+letter:	mektup
+library	:kütüphane
+lunch:	öğle yemeği
+manager	:müdür
+main:	ana
+map	:harita
+married	:evli
+meal:	yemek
+meet:	buluşmak
+meeting:	buluşma, görüşme
+melon:	kavun
+minute	:dakika
+mirror:	ayna
+miss:	kaçırmak
+mistake:	hata
+month:	ay
+need:	ihtiyaç
+neighbour:	komşu
+news	:haber
+nice:	güzel
+nose:	burun
+nurse	:hemşire
+object:	nesne
+opposite:	karşısında, karşıt
+oven:	fırın
+page	:sayfa
+paint:	boya, boyamak
+parent	:ebeveyn
+pass:	geçmek, geçirmek
+pay:	ödeme, ödemek
+pepper:	biber
+personal:	kişisel
+pet:	evcil hayvan
+place:	yer
+plane:	uçak
+pocket:	cep
+polite	:kibar
+pool:	havuz
+poor:	yoksul
+possible:	mümkün
+push	:itmek
+quick:	hızlı
+quiet	:sessiz
+railway:	demiryolu
+ready	:hazır
+refrigerator:	buzdolabı
+remember:	hatırlamak
+rent:	kiralamak
+repair	:onarmak, tamir etmek
+repeat	:tekrar
+restroom:	tuvalet
+return:	dönüş
+rice	:pirinç
+rich	:zengin
+ride	:binmek
+right	:sağ
+ring	:halka
+rise	:artış
+river	:nehir
+road	:yol
+roof	:çatı
+room	:oda
+rose	:gül
+salt	:tuz
+same	:aynı
+security	:güvenlik
+sell	:satmak
+serious	:ciddi
+shelf	:raf
+ship	:gemi
+shirt	:gömlek
+shoe	:ayakkabı
+show	:göstermek
+sick	:hasta
+sing	:şarkı söylemek
+single:	tek
+skirt	:etek
+sky	:gökyüzü
+smile	:gülümsemek
+snow	:kar
+socks	:çorap
+son	:oğul, erkek evlat
+song	:şarkı
+soup:	çorba
+spend	:harcamak
+spoon	:kaşık
+stamp:	kaşe, pul, damgalamak
+stay:	Kalmak
+story:	öykü
+strawberry:	çilek
+strong	:güçlü
+successful:	başarılı
+suit:	takım elbise
+sweet:	tatlı
+talk:	konuşma
+tall:	uzun boylu
+teach:	öğretmek
+thick:	kalın
+thief:	hırsız
+thin:	ince
+think:	düşünmek
+thirsty	:susuz, susamış
+ticket	:bilet
+tidy:	düzenli
+tired	:yorgun
+toothbrush:	diş fırçası
+toothpaste:	diş macunu
+towel:	havlu
+tower:	kule
+town:	kasaba
+toy	:oyuncak
+trainers:	eğitmenler
+travel	:seyahat
+tree	:ağaç
+trousers	:pantolon
+turn	:dönmek, dönüş
+ugly	:çirkin
+umbrella	:şemsiye
+uncle	:amca, dayı
+understand	:anlamak, kavramak
+underwear	:iç çamaşırı
+waiter	:garson
+waitress:	kadın garson
+Wall:	duvar
+watermelon	:karpuz
+way	:yol
+weak	:zayıf
+wear	:giymek
+week	:hafta
+wind	:rüzgar
+wonderful	:harika
+winter:	kış
+word	:kelime
+wrong:	yanlış, hatalı
+zoo:	hayvanat bahçesi 
+abroad:	yurtdışı
+accept	:kabul etmek
+accident:	kaza
+adventure:	macera
+agree:	anlaşmak, uzlaşma
+anniversary:	yıldönümü
+ant:	karınca
+area:	alan, bölge
+argue:	tartışma
+arm:	kol
+begin	:başlamak
+believe	:inanmak
+bell	:zil
+bite	:ısırmak
+blanket:	battaniye
+brain:	beyin
+bring	:getirmek
+business:	iş
+busy:	meşgul
+cable:	kablo
+can:	 – e bilmek
+cap	:şapka
+cash:	nakit para
+catch:	yakalamak
+changing room:	soyunma odası
+chess:	satranç
+chewing gum:	sakız(çiğneme)
+chin:	çene
+choose	:seçmek
+climb	:tırmanmak
+cloth	:kıyafet, bez
+collect	:toplamak, biriktirmek
+complete:	tamamlamak
+confused:	kafası karışık
+connect:	bağlanmak (veri)
+contact	:temas kurmak
+cookies:	kurabiyeler, çerezler
+cool	:rahat, havalı
+cost	:mal oldu(fiyatı)
+cotton:	pamuk
+couch	:kanepe
+cough	:öksürük
+crazy	:çılgın
+curious	:meraklı
+customer:	müşteri
+cut	:kesmek
+cute	:sevimli
+damage	:hasar vermek
+dangerous:	tehlikeli
+dead	:ölü
+decide	:karar vermek
+deep	:derin
+delete:	silmek
+delicious:	lezzetli
+describe:	tanımlamak
+diamond	:elmas
+die	:ölmek
+direction:	yön
+discover:	keşfetmek
+discuss	:tartışmak
+disturb:	rahatsız etmek
+drawer	:çekmece
+dream	:rüya
+earring	:küpe
+elbow	:dirsek
+elevator:	asansör
+enjoy	: tadını çıkarmak
+entertainment:	eğlence
+equal	:eşit
+escape:	çıkış yapmak, kaçmak
+excellent	:mükemmel
+exhausted	:bitkin, tükenmiş
+expensive	:pahalı
+experience	: tecrübe etmek
+explain:	açıklamak
+eyebrow	:kaş
+eyelash:	kirpik
+eyelid:	göz kapağı
+face:	yüz
+factory:	fabrika
+fail:	başarısız
+famous	:ünlü
+fan:	vantilatör, hayran
+feel:	hissetmek
+female	:kadın, bayan
+fight:	dövüşmek, kavga
+fill:	doldurmak
+first aid:	ilk yardım
+flag:	bayrak
+flat:	düz, apartman dairesi
+flour:	un
+fog:	sis
+follow	:takip etmek
+food:	yiyecek
+foreign:	yabancı
+formal:	resmi
+fresh	:taze
+front:	ön
+fuel	:yakıt
+furniture:	mobilya
+future:	gelecek
+garlic	:sarımsak
+gate:	han kapısı, geçit
+generous:	cömert
+gift:	hediye
+glad:	memnun olmak
+glove	:eldiven
+graduate:	mezun olmak
+grass	:çimen, yeşillik
+grocer:	manav
+grow	:yetiştirmek, büyütmek
+guide	:rehber
+hard:	zor
+harmful:	zararlı
+huge:	yüce
+idea:	fikir
+impossible:	imkansız
+insect:	böcek
+intelligent:	zeki
+introduce:	tanıtmak
+invide:	davet etmek
+island:	ada
+jam:	reçel
+jar:	kavanoz
+join:	katılmak
+joke:	şaka yapmak
+journey:	seyehat
+juice:	meyve suyu
+jump:	atlamak
+key:	anahtar
+kick:	tekme atmak
+kind:	tür
+knee:	diz
+knife:	bıçak
+lake:	göl
+lamb:	koyun
+leather:	deri
+leg	:bacak
+lift:	kaldırmak
+lip:	dudak
+lock:	kilit, kilitlemek
+lose:	kaybetmek
+loud:	gürültü, yüksek sesli
+lovely:	sevimli
+luck:	şans
+magic:	sihir
+mall:	alışveriş merkezi
+meat:	et
+medicine:	ilaç, medikal
+mend:	tamir etmek
+mixed	:karıştırılmış, karışık
+monkey:	maymun
+moon:	ay
+mountain:	dağ
+mouth:	ağız
+move	:taşınmak, hareket etmek
+nail clippers:	tırnak makası
+naughty	:afacan, yaramaz
+nervous	:asabi, sinirli
+noise	:gürültü
+novel	:roman
+ocean	:okyanus
+officer:	memur
+oil	:yağ, mazot
+overweight	:aşırı yüklenmek
+pick	:seçmek
+plant	:ekmek, bitki
+plate:	levha, plaka
+poem:	şiir
+point	:uç, nokta, puan
+point on:	(parmakla) işaret etmek
+power:	güç, enerji
+prepare:	hazırlamak
+pretty:	şirin,tatlı
+price	:bedel, fiyat
+produce	:üretmek
+queen:	kraliçe
+reach:	erişmek, uzanmak
+reason:	sebep
+record:	kaydetmek
+refuse:	reddetmek
+relation:	ilişki, bağlantı
+relax:	rahatlamak
+remote control:	uzaktan kumanda
+reply:	yanıtlamak, cevap
+report:	şikayet etmek
+retire:	emekli olmak
+rock:	yıkmak
+rope:	halat, ip
+rude:	kaba saba
+rule:	kural
+safe:	güvenilir
+salary:	maaş
+save:	tasarruf etmek, kurtarmak
+scissors:	makas
+seat:	koltuk (sabit)
+select:	seçmek
+send:	göndermek
+situation:	durum, hal
+serious	:ciddi
+serve:	hizmet etmek
+sharp:	keskin, sivri
+shine:	parlatmak
+shoulder:	omuz
+shout:	haykırmak
+sign:	imzalamak
+silent:	sessiz
+simple:	sade, basit
+ski:	kayak
+snake:	yılan
+soap:	sabun
+society:	toplum
+soft:	yumuşak
+spider:	örümcek
+stand:	ayakta durmak
+stone:	taş
+storm:	fırtına
+subway:	alt geçit
+sure:	emin olmak,  elbette
+suprised:	hayret etmiş
+tailor:	terzi
+taste:	tatmak
+team:	ekip
+temperature:	sıcaklık
+tent:	çadır
+terrible:	korkunç
+throw:	fırlatmak
+tiger:	kaplan
+tissue	:mendil
+tongue:	dil (lisan)
+touch:	dokunmak
+transport:	nakletmek, taşımak
+trouble:	problem
+try:	denemek
+usual:	sıradan
+vacation:	tatil
+vacuum cleaner:	elektrik süpürgesi
+valuable:	kıymetli
+vegetable:	sebze
+view:	görmek, seyretmek, görüş
+voice:	ses
+war:	savaş
+warm	:ılık
+warning:	uyarı
+weather	:hava durumu
+wet:	ıslatmak
+win:	kazanmak
+wine:	şarap
+chance:	şans
+worry	:merak etmek, endişelenmek
