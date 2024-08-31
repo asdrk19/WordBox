@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WordBox" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- ActionBar rengi -->
+        <item name="colorPrimary">@color/my_desired_primary_color</item>
+        <!-- Şarj yeri göstergesinin rengini siyah yaptık. -->
+    </style>
+</resources>
